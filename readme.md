@@ -7,7 +7,6 @@ $ git pull origin main --allow-unrelated-histories
 [markdown](https://www.markdownguide.org/basic-syntax/)
 
 '#'	alternate format: add leading 0b for binary (%#b), 0 for octal (%#o),
-
 	0x or 0X for hex (%#x or %#X); suppress 0x for %p (%#p);
 	for %q, print a raw (backquoted) string if strconv.CanBackquote
 	returns true;
